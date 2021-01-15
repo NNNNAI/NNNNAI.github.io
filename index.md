@@ -4,7 +4,7 @@ layout: default
 
 ![photo](/naiyuan liu.jpg)
 
-Now I am a first-year Master student at [University of Technology Sydney](http://www.uts.edu.au/), under supervision of [Prof.Yi Yang](https://sites.google.com/site/ianyyang2016/) and [Mr. Yunchao Wei](https://weiyc.github.io/). My research interests are in deep learning and computer vision, especially in image translation.
+Now I am a first-year Master student at [University of Technology Sydney](http://www.uts.edu.au/), under supervision of [Prof.Yi Yang](https://sites.google.com/site/ianyyang2016/) and [Dr. Yunchao Wei](https://weiyc.github.io/). My research interests are in deep learning and computer vision, especially in image translation.
 
 ## Publications
 - X. Chen, **N. Liu**, B. Ni*, Z Liu, Y. Jiang， L. Truong and Q. Tian, [CooGAN: A Memory-Efficient Framework for High-Resolution Facial Attribute Editing](https://arxiv.org/abs/2011.01563), Proc. of European Conference on Computer Vision (ECCV), 2020.
