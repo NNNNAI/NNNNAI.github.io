@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![Image](/naiyuan liu.jpg)
 
 Now I am a first-year Master student at [University of Technology Sydney](http://www.uts.edu.au/), under supervision of [Prof.Yi Yang](https://sites.google.com/site/ianyyang2016/) and [Mr. Yunchao Wei](https://weiyc.github.io/). My research interests are in deep learning and computer vision, especially in image translation.
 
@@ -17,6 +17,3 @@ Now I am a first-year Master student at [University of Technology Sydney](http:/
 
 **E-mail**:  naiyuan.liu@student.uts.edu.au
 
-**Bold** and _Italic_ and `Code` text
-
-[View My GitHub Profile](https://github.com/NNNNAI) and ![Image](/naiyuan liu.jpg)
