@@ -11,7 +11,7 @@ Now I am a first-year Master student at [University of Technology Sydney](http:/
 - X. Chen*, X. Yan*, **N. Liu**, T. Qiu and B. Ni, [Anisotropic Stroke Control for Multiple Artists Style Transfer](https://arxiv.org/abs/2010.08175), Proc. of the 28th ACM International Conference on Multimedia (MM ’20), 2020.
 
 ## Honors and Awards
-- The Third Level Academic Scholarship 2016/2017/2018/2019
+- The Third Level Academic Scholarship 2016/2017/2018
 
 ## Contact 
 
